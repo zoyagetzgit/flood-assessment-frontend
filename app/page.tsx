@@ -99,7 +99,7 @@ export default function FloodDetectionSystem() {
       headers: endpoint.includes("coordinates")
         ? { "Content-Type": "application/json" }
         : {},
-      body: endpoint.includes("coordinates") ? JSON.stringify(data) : data,
+      body: endpoint.includes("coordinates") ? JSON.stringify(data) : (data as BodyInit | null),
     });
     if (!response.ok) throw new Error(`API error: ${response.status}`);
     return response.json();
