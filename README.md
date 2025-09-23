@@ -10,10 +10,10 @@
 
 - ## How to Use
 
- **Coordinate Analysis**: Enter latitude and longitude coordinates
- **Image Analysis**: Upload terrain photos for AI assessment
- **View Results**: See risk level, elevation, distance from water, and recommendations
- **Interactive Map**: Visualize the location with risk overlay
+ 1. **Coordinate Analysis**: Enter latitude and longitude coordinates
+ 2. **Image Analysis**: Upload terrain photos for AI assessment
+ 3. **View Results**: See risk level, elevation, distance from water, and recommendations
+ 4. **Interactive Map**: Visualize the location with risk overlay
 
  ## Technical Stack
 
