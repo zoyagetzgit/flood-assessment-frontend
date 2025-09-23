@@ -8,7 +8,7 @@
 - **AI-Powered**: Uses Google's Gemini AI for intelligent analysis
 - **Clean UI**: Modern, responsive design with shadcn/ui components
 
- ## How to Use
+- ## How to Use
 
  **Coordinate Analysis**: Enter latitude and longitude coordinates
  **Image Analysis**: Upload terrain photos for AI assessment
