@@ -93,7 +93,7 @@ export default function FloodDetectionSystem() {
   }, []);
 
   // API calls
-  const callAPI = async (endpoint: string, data: any) => {
+  const callAPI = async (endpoint: string, data: unknown) => {
     const response = await fetch(`${API_BASE_URL}${endpoint}`, {
       method: "POST",
       headers: endpoint.includes("coordinates")
