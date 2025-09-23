@@ -8,14 +8,14 @@
 - **AI-Powered**: Uses Google's Gemini AI for intelligent analysis
 - **Clean UI**: Modern, responsive design with shadcn/ui components
 
-- ## How to Use
+ ## How to Use
 
-1. **Coordinate Analysis**: Enter latitude and longitude coordinates
-2. **Image Analysis**: Upload terrain photos for AI assessment
-3. **View Results**: See risk level, elevation, distance from water, and recommendations
-4. **Interactive Map**: Visualize the location with risk overlay
+ **Coordinate Analysis**: Enter latitude and longitude coordinates
+ **Image Analysis**: Upload terrain photos for AI assessment
+ **View Results**: See risk level, elevation, distance from water, and recommendations
+ **Interactive Map**: Visualize the location with risk overlay
 
-5. ## Technical Stack
+ ## Technical Stack
 
 ### Frontend
 - Next.js 15 with App Router
